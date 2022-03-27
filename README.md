@@ -1,4 +1,4 @@
-### Olá. Eu sou o Victor Dantas 👋
+### Olá. Eu sou Victor Dantas 👋
 
 - 🔭 Atulamente trabalhando como suporte técnico
 - 🌱 Estudando Javascript
