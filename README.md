@@ -3,7 +3,7 @@
 - 🔭 Atulamente trabalhando como suporte técnico
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/victorddantas">
