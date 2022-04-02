@@ -1,6 +1,6 @@
 ### Olá. Eu sou Victor Dantas 👋
 
-- 🔭 Atulamente trabalhando como suporte técnico
+- 🔭 Atulamente estudando programção front-end
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
 - 😄 Pronomes: ele/dele
