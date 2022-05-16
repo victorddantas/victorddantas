@@ -3,7 +3,6 @@
 - 🔭 Atulamente estudando programação front-end
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/victorddantas">
@@ -15,7 +14,8 @@
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
+  <img align="center" alt="Victor-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
+  <img align="center" alt="Victor-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg "/>  
 </div>
   
   ##
