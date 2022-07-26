@@ -15,7 +15,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
   <img align="center" alt="Victor-jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>  
-  <img align="center" alt="Victor-C#" height="30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)">
+  <img align="center" alt="Victor-C#" height="30" width="40" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
