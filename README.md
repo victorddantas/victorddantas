@@ -1,7 +1,6 @@
 ### Olá. Eu sou Victor Dantas 👋
 
-- 🔭 Atualmente estudando programação front-end
-- 🌱 Estudando Javascript
+- 🔭 Atualmente estudando programação
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
 
 <div align="center">
