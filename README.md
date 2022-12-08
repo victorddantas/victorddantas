@@ -1,6 +1,6 @@
 ### Olá. Eu sou Victor Dantas 👋
 
-- 🔭 Atualmente estudando programação
+- 🔭 Desenvolvedor Júnior
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
 
 <div align="center">
