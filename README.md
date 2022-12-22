@@ -1,6 +1,6 @@
 ### Olá. Eu sou Victor Dantas 👋
 
-- 🔭 Desenvolvedor Júnior
+- 🔭 Futuro desenvolvedor
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
 
 
