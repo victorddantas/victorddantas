@@ -1,6 +1,6 @@
 ### Olá. Eu sou Victor Dantas 👋
 
-- 🔭 Futuro desenvolvedor
+- 🔭 Analista .NET
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
 
 <div align="center">
