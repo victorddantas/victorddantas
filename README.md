@@ -1,6 +1,6 @@
 ### Olá. Eu sou Victor Dantas 👋
 
-- 🔭 Analista .NET
+- 🔭 Desenvolvedor .NET
 - 📫 Contate-me no email: vic.d.dantas61@gmail.com
 
 <div align="center">
@@ -20,6 +20,8 @@
   <img align="center" alt="Victor-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Victor-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Victor-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg">
+  <img align="center" alt="Victor-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg">
+  <img align="center" alt="Victor-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
   
   ##
