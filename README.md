@@ -31,6 +31,6 @@
 <a href="https://www.linkedin.com/in/victordominguesdantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
- ![GitHub Snake](https://raw.githubusercontent.com/victorddantas/victorddantas/output/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/victorddantas/victorddantas/output/github-snake-dark.svg)
 
 </div>
